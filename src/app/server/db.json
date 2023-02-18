@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Duane",
+      "img": "asdasd",
+      "email": "vduane29@gmail.com",
+      "address": "porac pampanga",
+      "id": 1
+    },
+    {
+      "name": "Shanes",
+      "img": "asdasd",
+      "email": "s@asdasd",
+      "address": "adsasdasdasasdasd",
+      "id": 14
+    },
+    {
+      "name": "asd",
+      "img": "asd",
+      "email": "a@sad",
+      "address": "asdasd",
+      "id": 15
+    }
+  ]
+}
